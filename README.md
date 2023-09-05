@@ -21,3 +21,8 @@ errors:  -bash: ./irf: No such file or directory
 
 solve :  sudo yum install glibc.i686  or sudo apt-get install lib32z1
 
+
+
+cap3  用于补gap  
+https://faculty.sites.iastate.edu/xqhuang/cap3-and-pcap-sequence-and-genome-assembly-programs
+
